@@ -20,16 +20,14 @@ class MovieCard extends React.Component {
 }
 
 MovieCard.propTypes = {
-  movie: PropTypes.arrayOf( // recebe uma posição de array contendo um objeto
-    PropTypes.shape(
-      {
-        title: PropTypes.string,
-        subtitle: PropTypes.string,
-        storyline: PropTypes.string,
-        rating: PropTypes.number,
-        imagepath: PropTypes.string,
-      },
-    ),
+  movie: PropTypes.shape(
+    {
+      title: PropTypes.string,
+      subtitle: PropTypes.string,
+      storyline: PropTypes.string,
+      rating: PropTypes.number,
+      imagePath: PropTypes.string,
+    },
   ).isRequired,
 };
 
