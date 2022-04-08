@@ -1,9 +1,9 @@
 # Projeto Movie Card Library
   Esse projeto foi desenvolvido no curso da Trybe, no módulo de Front-end.
   
-  Nesse projeto contruí uma biblioteca de filmes, estática, com o objetivo de aplicar os conhecimentos adquiridos sobre React, NPM (Node Package Manager) e importação de códigos externos.
+  Nesse projeto contruí uma biblioteca de filmes estática, com o objetivo de aplicar os conhecimentos adquiridos sobre React, NPM (Node Package Manager) e importação de códigos externos.
 
-  :point_right: Observação: Clique em [Projeto desenvolvido](#Projeto-desenvolvido) para ver os Testes realizados e o funcionamento da aplicação. :smile:
+  :point_right: Observação: Clique em [Projeto desenvolvido](#Projeto-desenvolvido) para ver o funcionamento da aplicação e a realização dos testes unitários. :smile:
 
 ---
 
