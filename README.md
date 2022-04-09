@@ -3,7 +3,7 @@
   
   Nesse projeto contruí uma biblioteca de filmes estática, com o objetivo de aplicar os conhecimentos adquiridos sobre React, NPM (Node Package Manager) e importação de códigos externos.
 
-  :point_right: Observação: Clique em [Projeto desenvolvido](#Projeto-desenvolvido) para ver o funcionamento da aplicação e a realização dos testes unitários. :smile:
+  Você pode acessá-lo <a href="https://johntvale.github.io/project-pixels-art/">clicando aqui :rocket: :smile:
 
 ---
 
@@ -42,13 +42,3 @@
 - [x] 15. Crie um componente "App"
 - [x] 16. Renderize "MovieList" dentro do componente "App"
 - [x] 17. Adicione "PropTypes" a todos os componentes
-
----
-
-### Projeto desenvolvido
-
-  - Funcionamento da aplicação:
-  <img src="./src/images/app-running.gif" alt="funcionamento da aplicação" >
-
-  - Testes unitários:
-  <img src="./src/images/passing-tests.gif" alt="Requisitos passando corretamente" >
