@@ -3,7 +3,7 @@
   
   Nesse projeto contruí uma biblioteca de filmes estática, com o objetivo de aplicar os conhecimentos adquiridos sobre React, NPM (Node Package Manager) e importação de códigos externos.
 
-  Você pode acessá-lo <a href="https://johntvale.github.io/project-pixels-art/">clicando aqui :rocket: :smile:
+  Você pode acessá-lo <a href="https://johntvale.github.io/project-movie-card-library/">clicando aqui :rocket: :smile:
 
 ---
 
